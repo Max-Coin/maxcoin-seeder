@@ -1,8 +1,8 @@
-bitcoin-seeder
+maxcoin-seeder
 ==============
 
-Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
-of reliable nodes via a built-in DNS server.
+maxcoin-seeder is a crawler for the MaxCoin network, which exposes a list
+of reliable nodes via a built-in DNS server. It is a fork of bitcoin-seeder.
 
 Features:
 * regularly revisits known nodes to check their availability
